@@ -43,7 +43,9 @@
     }
 
     button {
+        margin: 15px auto;
         padding: 10px;
+        cursor: pointer;
     }
 
     footer {
